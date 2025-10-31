@@ -1,0 +1,107 @@
+{
+  "TabTitle": {
+    "home": "Simple Blog Admin"
+  },
+  "Header": {
+    "title": "Simple Blog Admin"
+  },
+  "Greeting": {
+    "text": "Hello world!"
+  },
+  "PostsPage": {
+    "allPosts": "All posts",
+    "hasNoPost": "No posts"
+  },
+  "Breadcrumb": {
+    "home": "Home",
+    "Posts": "Posts",
+    "PostId": "Post ID"
+  },
+  "CategoryBadge": {
+    "Technology": "Technology",
+    "Travel": "Travel",
+    "Food": "Food",
+    "Lifestyle": "Lifestyle",
+    "Fashion": "Fashion"
+  },
+  "SearchBox": {
+    "searchPlaceholder": "Search posts..."
+  },
+  "ItemsPerPageSelector": {
+    "postsPerPage": "Posts per page"
+  },
+  "SortSelector": {
+    "newest": "Newest",
+    "mostViews": "Most views",
+    "mostPopular": "Most popular"
+  },
+  "PostCard": {
+    "draft": "Draft",
+    "minutes": "minutes"
+  },
+  "MetaInfo": {
+    "minutesRead": "minutes read",
+    "views": "views",
+    "likes": "likes"
+  },
+  "RelatedPosts": {
+    "title": "Related posts",
+    "minutesRead": "minutes read"
+  },
+  "ShareSection": {
+    "title": "Share post"
+  },
+  "TableOfContents": {
+    "title": "Table of Contents",
+    "introduction": "Introduction",
+    "serverComponents": "Server Components",
+    "appRouter": "App Router",
+    "conclusion": "Conclusion",
+    "empty": "No content"
+  },
+  "Tags": {
+    "title": "Tags"
+  },
+  "SidenavItem": {
+    "posts": "Post",
+    "createNewPost": "Create new post"
+  },
+  "Form": {
+    "Title": "Title",
+    "Excerpt": "Excerpt",
+    "ReadTime": "Read time",
+    "Minutes": "minutes",
+    "Content": "Content (Markdown)",
+    "Category": "Category",
+    "Tags": "Tags",
+    "Metadata": "Metadata",
+    "Actions": {
+      "submit": "Create Post",
+      "cancel": "Cancel"
+    },
+    "ImageUpload": {
+      "label": "Cover Image",
+      "clickToUpload": "Click to upload",
+      "orDragDrop": "or drag and drop",
+      "fileHint": "SVG, PNG, JPG or GIF (MAX. 800x400px)",
+      "uploading": "Uploading...",
+      "uploadFailed": "Image upload failed.",
+      "uploadError": "An error occurred during upload.",
+      "previewAlt": "Preview"
+    },
+    "Validation": {
+      "titleRequired": "Title is required.",
+      "excerptRequired": "Excerpt is required.",
+      "contentRequired": "Content is required.",
+      "categoryRequired": "Category is required.",
+      "tagsRequired": "At least one tag is required.",
+      "coverImageRequired": "Cover image is required."
+    }
+  },
+  "Login": {
+    "loginToContinue": "Must login with Google",
+    "loginWithGoogle": "Continue with Google",
+    "loginBtn": "Login",
+    "logoutBtn": "Logout"
+  }
+}

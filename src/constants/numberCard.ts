@@ -1,0 +1,1 @@
+export const DEFAULT_POST_SKELETON_COUNT = 9;

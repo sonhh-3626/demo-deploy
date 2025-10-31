@@ -1,0 +1,109 @@
+{
+  "TabTitle": {
+    "home": "Blog đơn giản dành cho quản trị viên"
+  },
+  "Header": {
+    "title": "Blog đơn giản dành cho quản trị viên"
+  },
+  "Greeting": {
+    "text": "Xin chào thế giới!"
+  },
+  "PostsPage": {
+    "allPosts": "Tất cả các bài viết",
+    "hasNoPost": "Không có bài viết nào"
+  },
+  "Breadcrumb": {
+    "home": "Trang chủ",
+    "Posts": "Bài viết",
+    "PostId": "ID bài viết"
+  },
+  "CategoryBadge": {
+    "Technology": "Công nghệ",
+    "Travel": "Du lịch",
+    "Food": "Ẩm thực",
+    "Lifestyle": "Phong cách sống",
+    "Fashion": "Thời trang"
+  },
+  "SearchBox": {
+    "searchPlaceholder": "Tìm kiếm bài viết..."
+  },
+  "ItemsPerPageSelector": {
+    "postsPerPage": "Bài viết mỗi trang"
+  },
+  "SortSelector": {
+    "newest": "Mới nhất",
+    "mostViews": "Nhiều lượt xem nhất",
+    "mostPopular": "Phổ biến nhất"
+  },
+  "PostCard": {
+    "draft": "Bản nháp",
+    "minutes": "phút"
+  },
+  "MetaInfo": {
+    "minutesRead": "phút đọc",
+    "views": "lượt xem",
+    "likes": "lượt thích"
+  },
+  "RelatedPosts": {
+    "title": "Bài viết liên quan",
+    "minutesRead": "phút đọc"
+  },
+  "ShareSection": {
+    "title": "Chia sẻ bài viết"
+  },
+  "TableOfContents": {
+    "title": "Nội dung",
+    "introduction": "Giới thiệu",
+    "serverComponents": "Server Components",
+    "appRouter": "App Router",
+    "conclusion": "Kết luận",
+    "empty": "No content"
+  },
+  "Tags": {
+    "title": "Tags"
+  },
+  "SidenavItem": {
+    "posts": "Danh sách bài viết",
+    "createNewPost": "Tạo bài viết"
+  },
+  "Form": {
+    "Title": "Tiêu đề",
+    "Excerpt": "Tóm tắt",
+    "ReadTime": "Thời gian đọc",
+    "Minutes": "phút",
+    "Content": "Nội dung (Markdown)",
+    "Category": "Danh mục",
+    "Tags": "Thẻ",
+    "Metadata": "Thông tin bổ sung",
+    "Actions": {
+      "submit": "Tạo bài viết",
+      "cancel": "Hủy",
+      "save": "Lưu thay đổi",
+      "saving": "Đang lưu..."
+    },
+    "ImageUpload": {
+      "label": "Ảnh bìa",
+      "clickToUpload": "Nhấn để tải lên",
+      "orDragDrop": "hoặc kéo thả vào đây",
+      "fileHint": "Hỗ trợ: SVG, PNG, JPG hoặc GIF (TỐI ĐA 800x400px)",
+      "uploading": "Đang tải ảnh...",
+      "uploadFailed": "Tải ảnh thất bại.",
+      "uploadError": "Đã xảy ra lỗi khi tải ảnh.",
+      "previewAlt": "Xem trước"
+    },
+    "Validation": {
+      "titleRequired": "Tiêu đề là bắt buộc.",
+      "excerptRequired": "Excerpt là bắt buộc.",
+      "contentRequired": "Nội dung là bắt buộc.",
+      "categoryRequired": "Phân loại là bắt buộc.",
+      "tagsRequired": "Cần có tối thiểu một tag.",
+      "coverImageRequired": "Cover image là bắt buộc."
+    }
+  },
+  "Login": {
+    "loginToContinue": "Đăng nhập để tiếp tục",
+    "loginWithGoogle": "Đăng nhập với Google",
+    "loginBtn": "Đăng nhập",
+    "logoutBtn": "Đăng xuất"
+  }
+}
